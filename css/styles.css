@@ -1,0 +1,293 @@
+body{
+    text-align: center;
+}
+.top-container{
+    background-color: #add8e6;
+    position: relative;
+    padding: top 150px;
+}
+.top-cloud{
+    position: absolute;
+    right:510px;
+    top: 75px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+h3{
+    position: relative;
+    left: 70px;
+    bottom: 40px;
+    font-family: 'VT323', monospace;
+    font-size: 2rem;
+    color:#0cbaba;
+    font-weight: normal;
+}
+h2{
+    position: relative;
+    right: 130px;
+    top: 60px;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 2.5rem ;
+    color:#0cbaba;
+    padding-bottom: 10PX;
+}
+h1{
+    position: relative;
+     top: 15px;
+     font-family: 'Cedarville Cursive', cursive;
+     font-size:5.625rem ;
+     color:#0cbaba
+}
+
+hr{
+    border: dotted #1e6464 6px;
+    border-bottom: none ;
+    width: 5%;
+    margin: 100px auto;
+
+}
+.my-image {
+    margin-top:50px;
+    height: 200px;
+    width: 200px;
+    border-radius: 70%;
+}
+.hello{
+    position: relative;
+    bottom: 0px;
+    top: 0px;
+    left: 15px;
+    margin: auto;
+}
+    
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+   
+
+   
+
+.computer{
+height: 200px;
+width: 200px;
+border-radius: 70%;
+margin-right: 30px;
+float: left;
+position: relative;
+bottom: 10px;
+}
+
+
+.chilli{
+  height: 200px;
+  width: 200px;
+  border-radius: 70%;
+  margin-left: 50px;
+  float: right;
+  margin-top: 90px;
+  position: relative;
+  top: 50px;
+  left: 20px;
+}
+
+.chillie-skill{
+    position: relative;
+    left: 100px;
+}
+
+
+
+.home{
+    
+    margin-left:900px;
+    text-align: right;
+    position: absolute;
+    top: 30px;
+    right: 250px;
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Courier New;
+        color: #ffffff;
+        font-size: 19px;
+        padding: 5px 12px 6px 12px;
+        text-decoration: none;
+      }
+      
+      .home:hover {
+        background: #3cb0fd;
+        text-decoration: none;
+      }
+
+.notes { margin-left:1000px;
+    text-align: right;
+    position: absolute;
+    top: 30px;
+    right: 150px;
+    background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 5px 12px 5px 12px;
+  text-decoration: none;
+}
+
+.notes:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.works{
+     margin-left:1000px;
+        text-align: right;
+        position: absolute;
+        top: 30px;
+        right: 50px;
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Courier New;
+        color: #ffffff;
+        font-size: 19px;
+        padding: 5px 12px 5px 12px;
+        text-decoration: none;
+      }
+      
+      .works:hover{
+        background: #3cb0fd;
+        text-decoration: none;
+      }
+
+
+
+
+
+
+
+
+.middle-container{
+    margin-top: 100px 0;
+    background-color: #e5f1f1;
+}
+
+.design{
+    text-align: left;
+    position: relative;
+    left: 300px;
+    bottom: 30px;
+    line-height: 2;
+
+}
+
+.design2{
+    text-align: rigt;
+    position: relative;
+    left: 200px;
+    bottom: 30px;
+    line-height: 2;
+
+
+}
+
+
+.intro{
+    margin: auto ;
+    width: 30%;
+    line-height: 2;
+}
+
+
+.final-h3{
+    position: relative;
+    right: 60px ;
+}
+
+.contact-message{
+    width: 40%;   
+    margin:40px auto 60px;
+    line-height: 2;
+}              
+
+.btn {position: relative;
+  bottom: 20px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Gochi Hand', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  
+  .bottom-container {
+    background-color:#66BFBF ;
+    padding: 50px;
+
+  }
+
+  a{
+    color: #11999E;
+    font-family:  'VT323', monospace;
+    margin: 10px 20px;
+    text-decoration: none;
+
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
+  
+  .copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+  }
+  
+
+ 
+
+ 
